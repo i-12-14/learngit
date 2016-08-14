@@ -122,6 +122,9 @@ let 可以代替var  来声明一个块级作用域
 我们通常使用一个大写的字母来表示常量  变更后 不显示错误   但是值不会改变
 
 
+Creating a new branch is quick
+
+
 
 
 
